@@ -1,0 +1,37 @@
+.main-square {
+    background-color: rgba(167, 167, 250, 0.726);
+    width:1000px;
+    height:1000px;
+    margin:0 auto;
+    position:relative;
+}
+.red {
+    background-color: red;
+    width:250px;
+    height:250px;
+    display:inline-block;
+    border:2px solid black;
+    position:absolute;
+    top:35%;
+    right:65%;
+}
+.blue {
+    background-color: blue;
+    width:250px;
+    height:250px;
+    display:inline-block;
+    border:2px solid black;
+    position:absolute;
+    top:35%;
+    right:15%;
+}
+.yellow {
+    background-color: yellow;
+    width:250px;
+    height:250px;
+    display:inline-block;
+    border:2px solid black;
+    position:absolute;
+    top:35%;
+    right:40%;
+}
